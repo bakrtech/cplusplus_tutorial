@@ -17,6 +17,8 @@ int main(){
     //Comparison opp
     cout<<endl;
     cout<<endl;
+    cout<<a<<endl;
+    cout<<b<<endl;
     cout<<"The vallue of a==b is "<<(a==b)<<endl;
     cout<<"The vallue of a!=b is "<<(a!=b)<<endl;
     cout<<"The vallue of a<=b is "<<(a<=b)<<endl;
